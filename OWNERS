@@ -1,6 +1,3 @@
-# Default code reviewers picked from top 3 or more developers.
-# Please update this list if you find better candidates.
-jungshik@google.com
-siyamed@google.com
-nona@google.com
-jgaillard@google.com
+version https://git-lfs.github.com/spec/v1
+oid sha256:1451b4efc57f096186924b50d5b8a61fa02597e247442f42808bb37d7ba4c2a3
+size 196

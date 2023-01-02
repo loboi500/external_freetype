@@ -1,13 +1,3 @@
-LIBFT2 {
-  global:
-    FT_Done_Face; # llndk
-    FT_Done_FreeType; # llndk
-    FT_Get_Char_Index; # llndk
-    FT_Init_FreeType; # llndk
-    FT_Load_Glyph; # llndk
-    FT_New_Face; # llndk
-    FT_New_Memory_Face; # llndk
-    FT_Set_Char_Size; # llndk
-  local:
-    *;
-};
+version https://git-lfs.github.com/spec/v1
+oid sha256:62aee502807778f7faf6d293d17f8b719ec28c1bc362136b46e67352c9283428
+size 269
